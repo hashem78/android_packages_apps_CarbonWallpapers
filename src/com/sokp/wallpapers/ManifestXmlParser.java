@@ -1,5 +1,5 @@
 
-package com.carbon.wallpapers;
+package com.sokp.wallpapers;
 
 import android.content.Context;
 import android.util.Log;

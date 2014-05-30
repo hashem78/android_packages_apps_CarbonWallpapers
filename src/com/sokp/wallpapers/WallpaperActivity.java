@@ -1,5 +1,5 @@
 
-package com.carbon.wallpapers;
+package com.sokp.wallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -24,6 +24,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.sokp.wallpapers.R;
 import com.koushikdutta.urlimageviewhelper.UrlImageViewCallback;
 import com.koushikdutta.urlimageviewhelper.UrlImageViewHelper;
 

@@ -1,5 +1,7 @@
 
-package com.carbon.wallpapers;
+package com.sokp.wallpapers;
+
+import com.sokp.wallpapers.R;
 
 import android.content.Context;
 import android.util.AttributeSet;

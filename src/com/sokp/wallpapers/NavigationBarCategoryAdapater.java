@@ -1,5 +1,5 @@
 
-package com.carbon.wallpapers;
+package com.sokp.wallpapers;
 
 import android.content.Context;
 import android.database.DataSetObserver;
@@ -10,6 +10,8 @@ import android.widget.SpinnerAdapter;
 import android.widget.TextView;
 
 import java.util.ArrayList;
+
+import com.sokp.wallpapers.R;
 
 public class NavigationBarCategoryAdapater implements SpinnerAdapter {
 
