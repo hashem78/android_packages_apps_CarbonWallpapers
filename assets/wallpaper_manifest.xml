@@ -1,24 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 
-    <category name="CarbonRom" >
-
+    <category name="Random" >
+	
         <wallpaper
-            author="ToxicThunder"
-            url="http://mattman.org/sub/wallpapers/toxicthunder_carbon.jpg" />
+            author="Ashish Bansal"
+			title="OtherWallpaper"
+            url="http://sonic-developers.com/wallpapers/SOKP/car.jpg" />
+        
+		<wallpaper
+            author="mythi "
+			title="Street"
+            url="http://sonic-developers.com/wallpapers/SOKP/m1.jpg" />
 
-    </category>
+		<wallpaper
+            author="mythi"
+			title="AdroDiomo"
+            url="http://sonic-developers.com/wallpapers/SOKP/m2.jpg" />
 
-    <category name="CarbonRom Users" >
-
+		<wallpaper
+            author="mythi"
+			title="Evo"
+            url="http://sonic-developers.com/wallpapers/SOKP/m3.jpg" />
+			
+			
+	</category>
+	    <category name="Random 2" >
+	
         <wallpaper
-            author="oasad92"
-            url="http://mattman.org/sub/wallpapers/oasad_carbon.jpg" />
+            author="Audio God"
+			title="Dotas"
+            url="http://sonic-developers.com/wallpapers/SOKP/m4.jpg" />
+        
+		<wallpaper
+            author="Mythi "
+			title="Dotas 2"
+            url="http://sonic-developers.com/wallpapers/SOKP/m5.jpg" />
 
-        <wallpaper
-            author="oasad92"
-            url="http://mattman.org/sub/wallpapers/oasad_carbon_red.jpg" />
+		<wallpaper
+            author="Mythi"
+			title="DaGy"
+            url="http://sonic-developers.com/wallpapers/SOKP/m6.jpg" />
 
-    </category>
+		<wallpaper
+            author="Audio God"
+			title="Get Ready"
+            url="http://sonic-developers.com/wallpapers/SOKP/m7.jpg" />
+			
+		<wallpaper
+            author="Ashish Bansal"
+			title="Strips"
+            url="http://sonic-developers.com/wallpapers/SOKP/m8.jpg" />
 
+		<wallpaper
+            author="Mythi"
+			title="I-Drops"
+            url="http://sonic-developers.com/wallpapers/SOKP/m9.jpg" />			
+			
+	</category>
 </wallpapers>
